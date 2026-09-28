@@ -1,52 +1,46 @@
-# Project One Storyboard | Text-Based Adventure Game
-
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
+# Project One Storyboard Text-Based Adventure Game
 
 ## Theme and Storyline
-
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Escape Room: The player explores a locked building, collecting clues and tools to find the way out.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+
+You are trapped in a locked building controlled by a Caretaker. Explorer the rooms to collect a flashlight, battery, screwdriver, access card, code note, and master key. Gather all six items before entering the Caretaker's Room; entering it too soon ends the game.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
-
+1. Entry Hall
+2. Storage Room
+3. Workshop
+4. Security Office
+5. Library
+6. Supply Closet
+7. Manager's Office
+8. Caretaker's Room
+ 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Flashlight
+2. Battery
+3. Screwdriver
+4. Access Card
+5. Code Note
+6. Master Key
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Caretaker controls the locked building and waits in the Caretaker's Room. If the player enters before collecting all six items, the Caretaker traps them and the game ends.
 
 ## Storyboard and Map Check
 
