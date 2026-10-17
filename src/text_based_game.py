@@ -8,7 +8,7 @@ def show_instructions():
     print ("Caretaker's Building Escape")
     print("Collect all six items before entering the Caretaker's Room.")
     print("Move with: go north, go south, go east, go west")
-    print("Collect an iten with: get <item name>")
+    print("Collect an item with: get <item name>")
     
 
 
